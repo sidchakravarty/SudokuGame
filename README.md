@@ -9,6 +9,6 @@ Instructions for playing the game -
 2. Feature to upload a puzzle has been disabled
 3. To play the game, you need to first set up a puzzle by entering numbers in the cells provided. 
 Once a number has been entered, use mouse to move to the new cell (do not use 'TAB' on keyboard).
-4. Once the puzzle has been setup, select the game mode (refer to the explanation provided above).
+4. Once the puzzle has been setup, select the game mode (refer to the explanation provided above) and press 'start'
 5. Use Single Step to let the program solve the Sudoku puzzle
 
